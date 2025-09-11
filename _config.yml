@@ -1,0 +1,23 @@
+title: Microfluidics and Applications
+description: Course Website
+remote_theme: just-the-docs/just-the-docs
+
+
+url: ''
+
+aux_links:
+  ZidaLab: https://zidalab.github.io
+
+nav:
+  - title: Home
+    url: /
+  - title: 开会
+    url: /docs/meeting
+  - title: 实验
+    url: /docs/experiment
+  - title: 写作与画图
+    url: /docs/writing
+  - title: 培训
+    url: /docs/training
+  - title: 其他
+    url: /docs/misc
