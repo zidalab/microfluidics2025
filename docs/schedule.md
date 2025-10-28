@@ -15,4 +15,4 @@ nav_order: 2
 | Sep 30, 2025   | 5. Applications: Biomedical Tests and Immunoassays        | [Lec5.pdf](../assets/docs/Lec5.pdf) |
 | Oct 14, 2025  | 6. Applications: Molecular Diagnostics                    | [Lec6.pdf](../assets/docs/Lec6.pdf) |
 | Oct 21, 2025  | 7. Applications: Single Cell Analysis                     | [Lec7.pdf](../assets/docs/Lec7.pdf) |
-| Oct 28, 2025  | 8. Challenges and Outlook                                 | [Lec8.pdf](../assets/docs/Lec8.pdf) |
+| Oct 28, 2025  | 8. Organ-on-chips                                 | [Lec8.pdf](../assets/docs/Lec8.pdf) |
